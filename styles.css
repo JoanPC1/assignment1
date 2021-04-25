@@ -52,11 +52,12 @@ a:hover {
 }
 
 a {
+    color: royalblue;
     text-decoration: none;
 }
 
 a:visited {
-    color: darkslateblue;
+    color: none;
 }
 
 input[type=date] {
