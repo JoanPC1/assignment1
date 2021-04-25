@@ -1,6 +1,7 @@
 element.style {
 : ;
 }
+
 form {
     display: block;
     margin-top: 0em;
@@ -15,6 +16,7 @@ form {
     padding-right: 40px; 
     color: #1abc9c;
 }
+
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #1abc9c;
@@ -38,9 +40,15 @@ input[type=button] {
     border-color: #16a085;
     text-decoration-line: none;
 } 
+
 input[type=date] {
     font-family: Arial, Helvetica, sans-serif;
+
 }
 .inputClass, .checkboxClass {
-    box-shadow: gray;
+    border-color: lightblue;
+}
+
+body {
+    background-color: lightgray;
 }
