@@ -5,22 +5,25 @@ element.style {
 form {
     display: block;
     margin-top: 0em;
+    margin-right: 100%
     height: 517.4px;
     width: 965.6px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #eee; 
-    font-size: 16px auto; 
+    font-size: 15px; 
     padding-top: 20px; 
     padding-bottom: 20px; 
     padding-left: 40px; 
     padding-right: 40px; 
     color: #1abc9c;
+    font-weight: bold;
 }
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #1abc9c;
-    font-size: 20px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 input[type=button] {
@@ -38,17 +41,17 @@ input[type=button] {
     border-width: 1px;
     border-style: solid; 
     border-color: #16a085;
-    text-decoration-line: none;
+    text-decoration: none;
 } 
 
 input[type=date] {
     font-family: Arial, Helvetica, sans-serif;
-
 }
+
 .inputClass, .checkboxClass {
     border-color: lightblue;
 }
 
 body {
-    background-color: lightgray;
+    background-color: lightsteelblue;
 }
