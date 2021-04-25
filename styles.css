@@ -43,16 +43,16 @@ input[type=button] {
     border-color: #16a085;
 } 
 
-input[type=button]:hover {
+input[type="button"]:hover {
     background-color: salmon;
-}
-
-a {
-    text-decoration: none;
 }
 
 a:hover {
     color: salmon;
+}
+
+a {
+    text-decoration: none;
 }
 
 a:visited {
