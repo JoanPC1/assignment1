@@ -7,14 +7,13 @@ form {
     height: 517.4px;
     width: 965.6px;
     font-family: Arial, Helvetica, sans-serif;
-    color: gray;
     background-color: #eee; 
     font-size: 16px auto; 
     padding-top: 20px; 
     padding-bottom: 20px; 
     padding-left: 40px; 
     padding-right: 40px; 
-    color: #1abc9c
+    color: #1abc9c;
 }
 h2 {
     font-family: Arial, Helvetica, sans-serif;
@@ -22,15 +21,24 @@ h2 {
     font-size: 20px;
 }
 
-input[type=button] {
+button {
     display: block;
-    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: #1abc9c;
     font-size: 18px;
     text-align: center;
-    width: 25;
-    border-width: 0px; border-style: solid; border-color: #16a085;
+    width: 25%;
+    border-top: 1px; 
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-style: solid; 
+    border-color: #16a085;
 } 
 input[type=date] {
     font-family: Arial, Helvetica, sans-serif;
