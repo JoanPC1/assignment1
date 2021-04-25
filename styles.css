@@ -1,0 +1,30 @@
+element.style {
+: ;
+}
+form {
+    display: block;
+    margin-top: 0em;
+    height: 517.4px;
+    width: 965.6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray
+    background-color: #eee; font-size: 16px; auto; padding: 20px 40px; color: #1abc9c
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1abc9c;
+}
+
+input[type=button] {
+    display: block;
+    padding: 5px;
+    color: white;
+    background-color: #1abc9c;
+    font-size: 18px;
+    text-align: center;
+    width: 25;
+    border-width: 0px; border-style: solid; border-color: #16a085;
+} 
+input[type=date] {
+    font-family: Arial, Helvetica, sans-serif;
+}
