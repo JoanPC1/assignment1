@@ -36,7 +36,11 @@ input[type=button] {
     border-width: 1px;
     border-style: solid; 
     border-color: #16a085;
+    text-decoration-line: none;
 } 
 input[type=date] {
     font-family: Arial, Helvetica, sans-serif;
+}
+.inputClass, .checkboxClass {
+    box-shadow: gray;
 }
